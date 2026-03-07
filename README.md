@@ -5,3 +5,8 @@ logging,os,re,pandas,ollama,python-telegram-bot
 ```
 pip install pandas ollama python-telegram-bot
 ```
+**Student** ➔ `Telegram Bot` ➔ **LLM (Ollama)** ➔ `Refined Answer` ➔ **Student**
+
+* **Step 1:** Student sends a message (question/query).
+* **Step 2:** The system triggers the LLM to analyze the content.
+* **Step 3:** The AI provides a tailored response to make learning easier.
