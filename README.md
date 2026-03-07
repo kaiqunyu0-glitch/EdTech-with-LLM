@@ -5,7 +5,7 @@ logging,os,re,pandas,ollama,python-telegram-bot
 ```
 pip install pandas ollama python-telegram-bot
 ```
-and you need to apply a telegram bot
+You need to apply a telegram bot and enter it in the code
 # How does it work?
 **Student** ➔ `Telegram Bot` ➔ **LLM (Ollama)** ➔ `Refined Answer` ➔ **Student**
 
