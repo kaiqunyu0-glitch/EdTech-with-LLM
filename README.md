@@ -9,6 +9,6 @@ You need to apply a telegram bot and enter it in the code
 # How does it work?
 **Student** ➔ `Telegram Bot` ➔ **LLM (Ollama)** ➔ `Refined Answer` ➔ **Student**
 
-* **Step 1:** Student sends a message (question/query).
-* **Step 2:** The system triggers the LLM to analyze the content and call CCSS(i will call CCSS with RAG).
+* **Step 1:** teacher sends a message (photo/text).
+* **Step 2:** The system triggers the LLM to analyze the content and call LLM.
 * **Step 3:** The AI provides a tailored response to make learning easier.
