@@ -5,6 +5,7 @@ logging,os,re,pandas,ollama,python-telegram-bot
 ```
 pip install pandas ollama python-telegram-bot
 ```
+and you need to apply a telegram bot
 **Student** ➔ `Telegram Bot` ➔ **LLM (Ollama)** ➔ `Refined Answer` ➔ **Student**
 
 * **Step 1:** Student sends a message (question/query).
