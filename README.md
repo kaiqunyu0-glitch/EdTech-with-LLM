@@ -13,5 +13,5 @@ You need to apply a telegram bot and enter it in the code
 * **Step 2:** The system triggers the LLM to analyze the content and call LLM.
 * **Step 3:** The AI provides a tailored response to make learning easier.
 # How does the system can do?
-* It can Image to Excel Conversion
-* I will add more function in the future
+* It can Image to Excel Conversion and based data generate advice
+* I will add more function in the future 
