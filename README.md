@@ -7,8 +7,7 @@ pip install pandas ollama python-telegram-bot duckduckgo-search
 ```
 You need to apply a telegram bot and enter it in the code
 # How does it work?
-**teacher** ➔ `Telegram Bot` ➔ **LLM (Ollama)** ➔ `Refined Answer` ➔ **teacher
-**
+**teacher** ➔ `Telegram Bot` ➔ **LLM (Ollama)** ➔ `Refined Answer` ➔ **teacher**
 
 * **Step 1:** teacher sends a message (photo/text).
 * **Step 2:** The system triggers the LLM to analyze the content and call LLM.
