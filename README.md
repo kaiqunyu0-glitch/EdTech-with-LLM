@@ -1,9 +1,9 @@
 # EdTech-with-LLM
 This project is about EdTech,I will code something to make education easier than before.
 # Library and how do you make it to run?
-logging,os,re,pandas,ollama,python-telegram-bot
+logging,os,re,pandas,ollama,python-telegram-bot,duckduckgo-search
 ```
-pip install pandas ollama python-telegram-bot
+pip install pandas ollama python-telegram-bot duckduckgo-search
 ```
 You need to apply a telegram bot and enter it in the code
 # How does it work?
